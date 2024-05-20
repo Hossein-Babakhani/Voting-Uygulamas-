@@ -1,0 +1,16 @@
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\bin\Debug\net5.0\Voting Uygulaması.exe
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\bin\Debug\net5.0\Voting Uygulaması.deps.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\bin\Debug\net5.0\Voting Uygulaması.runtimeconfig.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\bin\Debug\net5.0\Voting Uygulaması.runtimeconfig.dev.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\bin\Debug\net5.0\Voting Uygulaması.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\bin\Debug\net5.0\ref\Voting Uygulaması.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\bin\Debug\net5.0\Voting Uygulaması.pdb
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\obj\Debug\net5.0\Voting Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\obj\Debug\net5.0\Voting Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\obj\Debug\net5.0\Voting Uygulaması.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\obj\Debug\net5.0\Voting Uygulaması.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\obj\Debug\net5.0\Voting Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\obj\Debug\net5.0\Voting Uygulaması.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\obj\Debug\net5.0\ref\Voting Uygulaması.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\obj\Debug\net5.0\Voting Uygulaması.pdb
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\01-Voting Uygulaması\Voting Uygulaması\obj\Debug\net5.0\Voting Uygulaması.genruntimeconfig.cache
